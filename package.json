@@ -1,5 +1,5 @@
 {
-  "name": "jQuery-csp-inline-style-fix",
+  "name": "jquery-csp-inline-style-fix",
   "version": "0.0.1",
   "description": "Fix inline style usage for CSP",
   "main": "lib/index.js",
